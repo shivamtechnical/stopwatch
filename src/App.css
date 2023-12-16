@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  height: 100%;
+  background-color: azure;
+}
+
+.time {
+  font-size: 5em;
+  margin-top: 10%;
+  margin-bottom: 20px;
+}
+
+.button {
+  font-size: 2em;
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+.lap {
+  font-size: 2em;
+}
